@@ -2,8 +2,8 @@
 
 Lookup abuse contact address.
 
-Requires `host`, `whois` and `egrep` to be available in any of
-your `PATH` directories.
+Requires `host`, `whois` and `egrep` to be executable in any of your `PATH`
+directories.
 
 Based on [a post from Andreas Klein, to Fail2ban mailing lists](https://sourceforge.net/p/fail2ban/mailman/message/27538211/).
 
